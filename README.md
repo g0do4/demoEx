@@ -9,6 +9,7 @@
 | idAdmin       | int              | Первичный ключ           |
 | login           | nvarchar(30)     | Логин            |
 | password         | nvarchar(30)      | Пароль            |
+| typeUser         | nvarchar(30)      | Тип пользователя            |
 
 Продавец - client
 
